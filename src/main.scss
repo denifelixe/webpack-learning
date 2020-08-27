@@ -1,0 +1,15 @@
+@import '~some-package/styles.css';
+
+$body-color: yellow;
+
+body {
+    background: $body-color;
+}
+
+.background-image {
+    background: url('./images/ancient.png');
+}
+
+.some-classes {
+    background: url('./images/legend.png');
+}
